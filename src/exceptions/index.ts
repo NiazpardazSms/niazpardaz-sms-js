@@ -1,0 +1,1 @@
+export { NiazpardazApiError } from './NiazpardazApiError';
