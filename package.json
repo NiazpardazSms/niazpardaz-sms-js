@@ -1,7 +1,7 @@
 {
   "name": "niazpardazsms",
   "version": "1.0.2",
-  "description": "کتابخانه رسمی JavaScript/TypeScript برای کار با API پیامکی نیازپرداز",
+  "description": "کتابخانه رسمی JavaScript/TypeScript برای کار با پنل پیامکی نیازپرداز",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
